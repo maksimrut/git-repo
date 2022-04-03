@@ -6,5 +6,5 @@ git_1 line5 modified task 2.1.8
 git_1 line6 modified task 2.1.8
 git_1 line7
 git_1 line8
-git_1 line9
-git_1 line10
+git_1 line9 changed task 2.1.18
+git_1 line10 changed task 2.1.18
