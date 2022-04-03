@@ -1,5 +1,5 @@
-git_1 line1
-git_1 line2
+git_1 line1 modified task 2.7
+git_1 line2 modified task 2.7
 git_1 line3
 git_1 line4
 git_1 line5
